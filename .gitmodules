@@ -1,0 +1,9 @@
+[submodule "SP-auth-service"]
+	path = SP-auth-service
+	url = https://github.com/Jhonmario8/SP-auth-service.git
+[submodule "SP-reservation-service"]
+	path = SP-reservation-service
+	url = https://github.com/Jhonmario8/SP-reservation-service.git
+[submodule "SP-notification-service"]
+	path = SP-notification-service
+	url = https://github.com/Jhonmario8/SP-notification-service.git
